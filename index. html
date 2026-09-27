@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Arosmita Sahoo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 40px;
+      background-color: #f8f5ff;
+      color: #333;
+    }
+
+    h1 {
+      color: #6a4c93;
+    }
+
+    h2 {
+      color: #8a5ca8;
+    }
+
+    .box {
+      max-width: 650px;
+      margin: 25px auto;
+      padding: 25px;
+      background-color: white;
+      border-radius: 15px;
+    }
+
+    a {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 10px 20px;
+      background-color: #6a4c93;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Hi, I'm Arosmita Sahoo</h1>
+
+  <p>Welcome to my personal website!</p>
+
+  <div class="box">
+    <h2>About Me</h2>
+    <p>
+      I am a Computer Science student who enjoys learning about
+      technology and exploring new ideas.
+    </p>
+
+    <p>
+      I am currently pursuing my Master of Computer Applications (MCA)
+      and working on improving my knowledge and skills.
+    </p>
+  </div>
+
+  <div class="box">
+    <h2>My Interests</h2>
+    <p>💻 Computer Science</p>
+    <p>🌐 Web Development</p>
+    <p>📚 Learning New Things</p>
+    <p>🤖 Artificial Intelligence</p>
+  </div>
+
+  <div class="box">
+    <h2>My Goal</h2>
+    <p>
+      My goal is to continue learning, develop useful skills,
+      and build a successful career in the field of Computer Science.
+    </p>
+  </div>
+
+  <a href="about.html">Read More About Me</a>
+
+</body>
+</html>
